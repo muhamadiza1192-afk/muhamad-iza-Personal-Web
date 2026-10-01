@@ -267,3 +267,9 @@ body {
   border-radius: 6px;
   display: inline-block;
 }
+
+.footer {
+  background-color: rgba(255, 255, 255, 0.85) !important;
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border-color);
+}
